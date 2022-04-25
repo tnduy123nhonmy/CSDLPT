@@ -60,20 +60,20 @@
 
 	<div class="container ">
 		<header class="text-center bg-light text-primary py-3 rounded mt-3">
-			<h3 class="display-5 font-weight-bold mb-1">QUẢN LÝ TASK</h3>
+			<h3 class="display-5 font-weight-bold mb-1">QUẢN LÝ SÁCH_VPP</h3>
 		</header>
 
-		<a href="add-task.php" id="create" class="btn btn-success mt-3 mb-3">THÊM TASK</a>
+		<a href="add-task.php" id="create" class="btn btn-success mt-3 mb-3">THÊM SÁCH_VPP</a>
 		<div class="table-responsive">
 			<table class="table" id="customTable">
 			<thead class="thead-light">
 				<tr class="text-center">
-					<th>Mã Task</th>
-					<th>Tiêu đề</th>
-					<th>Tên nhân viên</th>
-					<th>Trạng thái</th>
-					<th>Ngày tạo task</th>
-					<th>Deadline</th>
+					<th>Mã sản phẩm</th>
+					<th>Tên sản phẩm</th>
+					<th>Số lượng</th>
+					<th>Giá nhập</th>
+					<th>Giá xuất</th>
+					<th>Mã chi nhánh</th>
 					<th>Thao tác</th>
 				</tr>
 			</thead>

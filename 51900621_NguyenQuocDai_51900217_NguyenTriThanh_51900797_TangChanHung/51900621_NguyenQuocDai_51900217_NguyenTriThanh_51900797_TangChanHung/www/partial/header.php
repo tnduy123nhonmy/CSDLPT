@@ -42,7 +42,7 @@
                             ?>
                                 <li class="nav-item">
                                     <a class="nav-link text-light mr-4" href="/Task/Manager/index-task.php">
-                                        QUẢN LÝ TASK
+                                        QUẢN LÝ SÁCH
                                     </a>
                                 </li>
                                 <li class="nav-item">

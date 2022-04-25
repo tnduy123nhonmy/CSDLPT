@@ -39,8 +39,8 @@
 
 	<div class="banner"></div>
 	<div class="content">
-		<h1>Web demo quản lý nhân viên</h1>
-		<p>Nhóm 5 <br> Nguyễn Quốc Đại - Nguyễn Trí Thanh - Tăng Chấn Hưng </p>
+		<h1>Web demo quản lý nhà sách</h1>
+		<p>Trương Nhật Duy - Phạm Nhật Anh - Nguyễn Quốc Đại</p>
 	</div>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
